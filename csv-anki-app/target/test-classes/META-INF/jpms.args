@@ -1,6 +1,0 @@
---add-modules
-javafx.controls,javafx.fxml
---patch-module
-com.andrew=_
---add-reads
-com.andrew=ALL-UNNAMED
