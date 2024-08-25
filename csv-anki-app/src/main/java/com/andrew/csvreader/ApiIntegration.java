@@ -21,6 +21,7 @@ public class ApiIntegration {
             String encodedWord = URLEncoder.encode(word, StandardCharsets.UTF_8.toString());
 
     String url = "https://api.dictionaryapi.dev/api/v2/entries/en/" + encodedWord;
+    //to do: integrate new wikitionary api https://stackoverflow.com/questions/2770547/how-can-i-retrieve-wiktionary-word-content
     
     HttpRequest request = HttpRequest.newBuilder()
         .uri(URI.create(url))
