@@ -1,6 +1,0 @@
-com/andrew/csvreader/JsonParser.class
-module-info.class
-com/andrew/csvreader/ApiIntegration.class
-com/andrew/csvreader/CsvWriter.class
-com/andrew/csvreader/MainApplication.class
-com/andrew/csvreader/ReadCSV.class
