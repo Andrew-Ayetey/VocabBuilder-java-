@@ -1,3 +1,4 @@
+package com.test;
 import com.andrew.csvreader.MainApplication;
 import com.andrew.csvreader.CsvWriter;
 
