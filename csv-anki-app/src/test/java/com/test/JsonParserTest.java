@@ -1,3 +1,5 @@
+package com.test;
+
 import com.andrew.csvreader.JsonParser;
 
 import org.junit.jupiter.api.Test;
